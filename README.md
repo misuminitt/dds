@@ -1,4 +1,4 @@
-# DDS – Star Job Automator
+# DDS – Drag Drive Simulator Roblox
 A Roblox delivery/teleport automation script with a custom GUI for the **Drag Drive Simulator** (DDS) map.  
 Includes start-job automation, block scanning (1→8), manual teleport controls.
 
