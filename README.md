@@ -16,12 +16,6 @@ To run this script in Roblox, execute the following command in your executor:
 loadstring(game:HttpGet("https://raw.githubusercontent.com/misuminitt/dds/main/DDS.lua"))()
 ````
 
-> **Notes**
->
-> * Default toggle key: `RightShift` (can be changed in **Settings** tab).
-> * Default delays (seconds): Start=10, After Start=25, Fail Next=25, Success Wait=25 (editable in **Job** tab).
-> * Tabs: **Job / Teleport / Settings**. Use **Teleport** when you want manual control; the loop auto-pauses while you interact.
-
 ## Credits
 
 Made by **misuminitt**
